@@ -1,5 +1,5 @@
 
-### happybotsite.onrender.com
+### [happybotsite.onrender.com](happybotsite.onrender.com)
 
 ## HappyBot - Sea-Lion Powered Companion/Assistant Bot
 
