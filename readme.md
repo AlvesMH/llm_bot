@@ -1,4 +1,6 @@
 
+### happybotsite.onrender.com
+
 ## HappyBot - Sea-Lion Powered Companion/Assistant Bot
 
 A Generative AI–Powered Telegram Companion Bot for Lonely Seniors in Singapore, leveraging the `Sea‑Lion` open‑source LLM via API and `LangChain` for context‑aware, empathetic conversations.
