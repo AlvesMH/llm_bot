@@ -5,6 +5,9 @@
 
 A Generative AI–Powered Telegram Companion Bot for Lonely Seniors in Singapore, leveraging the `Sea‑Lion` open‑source LLM via API and `LangChain` for context‑aware, empathetic conversations.
 
+![Happy-Bot](static/img/happy_bot.jpg)
+![MiniApp](static/img/miniapp.jpg)
+
 # 📖 Overview
 
 GPT Advisor is a lightweight, scalable Python application that integrates with Telegram to provide senior users with:
